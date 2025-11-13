@@ -7,7 +7,7 @@ It allows users to quickly look up English word meanings using the [Free Diction
 
 ## 🌐 Live Demo
 
-👉 **[View Live Project]()**  
+👉 **[View Live Project](https://dileep-kumawat.github.io/Dictionary-using-html-css-and-js/)**  
 
 ![Live Preview](./preview.png)
 
@@ -43,7 +43,7 @@ Watch how it works:
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/Dileep-kumawat/Dictionary-using-html-css-and-js.git
 
 2. Navigate into the project folder:
 
